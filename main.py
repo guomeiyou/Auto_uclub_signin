@@ -61,3 +61,4 @@ if __name__ == '__main__':
         print('登陆成功，您目前的积分为: %d' % getCredit(s))
         signin(s)
         print('签到完成，您目前的积分为: %d' % getCredit(s))
+ 
